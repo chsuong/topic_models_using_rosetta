@@ -12,5 +12,8 @@ pip install git+https://github.com/chsuong/rosetta.git@update
 3. Open the IPython Notebook "topic_models_using_rosetta.ipynb" or the Python script "topic_models_using_rosetta.py". 
 4. Change the file paths in the notebook and the script for your own use.
 
-Notes: data/raw is the directory where the documents are stored as text files. See https://github.com/columbia-applied-data-science/rosetta for more tutorials and information about the rosetta package.
+##Notes: 
+- data/raw is the directory where the documents are stored as text files. 
+- This tutorial is based on the tutorial at https://github.com/columbia-applied-data-science/rosetta.
+- See https://github.com/columbia-applied-data-science/rosetta for more tutorials and information about the rosetta package. 
 
